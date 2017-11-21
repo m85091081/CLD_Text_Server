@@ -9,23 +9,7 @@
 # Server Setting
 host = '0.0.0.0'
 port = 8509
-
-# Github Setting
-gitpath = 'https://github.com/0mu-Project/blog.git'
-
-# Debug Mode , 0 = off , 1 = on
-debug = 1
-
-# Server Log Dump Location
-s_log = '../Yakumo.log'
-
-# Database Setting
-sqliteFile = '../../sqlite/Yakumo.db'
-
-##
+debug = True
 yourkey = 'jfowpppjwo9w??{{@@jrejk__ueiqjfi'
-imgurkey = ''
-
-##
 mongohost = 'mongodb://127.0.0.1:27017/'
 mongop = 27017
